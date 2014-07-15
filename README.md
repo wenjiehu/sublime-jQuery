@@ -5,7 +5,7 @@ This is a Sublime Text bundle to help with jQuery functions. It has syntax highl
 ## Using snippets
 Snippets are used by typing the method name and selecting the appropriate match, see below for an example when using `ajax` as the tabtrigger:
 
-![](https://photos-2.dropbox.com/t/0/AAAI4pHC556mBqp7noBP235wRKoGRbVlsufMIBlBLkLv9g/12/152000/png/1024x768/3/1405422000/0/2/Screenshot%202014-07-15%2010.04.18.png/xgewPTcDMEx9ivufmWbWm41MuNFKlUODb_Ua5XYpZiI)
+![](http://i.imgur.com/pASjCdM.png)
 
 ## Authors
 
